@@ -1,6 +1,6 @@
 <?php
 // koneksi database
-include 'koneksi.php';
+include 'Koneksi.php';
 
 // menangkap data yang di kirim dari form
 $kode_barang = $_POST['kode_barang'];
